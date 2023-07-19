@@ -19,3 +19,4 @@ Attach or link a resource.
 - Browser (w/version):
 - User role (client, copilot or manager):
 - Account used: 
+
