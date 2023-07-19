@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: work-manager
+  description: An example of a Backstage application.
+  annotations:
+    github.com/project-slug: tc-backstage-test/work-manager
+spec:
+  type: website
+  owner: backstage-dev
+  lifecycle: experimental
+  consumesApis:
+    - challenge-api
